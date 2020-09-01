@@ -1,0 +1,90 @@
+/* GERAL */
+body{
+    font-family: sans-serif;
+}
+
+.row{
+    margin:0;
+}
+
+.container{
+    padding: 70px 0;
+}
+
+p, li{
+    color: gray;
+    font-size: 14px;
+}
+
+
+/* NAV */
+header, .navbar{
+    background-color: #353D41;
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo{
+    width: 50px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+#navbar-links a{
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 1rem .8rem;
+}
+
+/* Carrossel */
+.container-fluid{
+    padding: 0;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item{
+    height: 90vh;
+}
+
+#mainSlider .carousel-caption{
+    top:50%;
+}
+
+#mainSlider .carousel-caption h2{
+    font-size: 50px;
+    color: slategray;
+    margin-bottom: 30px;
+}
+
+#mainSlider .carousel-caption p{
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+.main-btn{
+    top: 50%;
+    background-color: blue;
+    color: black;
+    text-transform: uppercase;
+    width: 200px;
+    height: 60px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 3px solid transparent;
+}
+
+.carousel-indicators .active{
+    background-color: tomato;
+}
+
