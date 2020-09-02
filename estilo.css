@@ -12,7 +12,7 @@ body{
 }
 
 p, li{
-    color: gray;
+    color: white;
     font-size: 14px;
 }
 
@@ -63,7 +63,7 @@ header, .navbar{
 
 #mainSlider .carousel-caption h2{
     font-size: 50px;
-    color: slategray;
+    color: white;
     margin-bottom: 30px;
 }
 
