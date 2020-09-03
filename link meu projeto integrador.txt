@@ -1,3 +1,0 @@
-link projeto integrador:
-
-https://github.com/rodrigomanholer/projetoIntegrador.git
